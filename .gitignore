@@ -1,0 +1,49 @@
+# Environments
+venv/
+env/
+.venv/
+.env/
+
+# Python
+__pycache__/
+*.pyc
+*.pyo
+*.pyd
+.Python
+build/
+develop-eggs/
+dist/
+downloads/
+eggs/
+.eggs/
+lib/
+lib64/
+parts/
+sdist/
+var/
+wheels/
+*.egg-info/
+.installed.cfg
+*.egg
+
+# Data and Checkpoints
+datasets/
+checkpoints/
+results/
+multimodal_only_samples/
+*.tsv
+*.csv
+*.pt
+*.pth
+
+# Streamlit
+.streamlit/
+*.webm
+*.png
+*.jpg
+*.jpeg
+
+# IDE
+.vscode/
+.idea/
+*.swp
